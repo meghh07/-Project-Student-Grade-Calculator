@@ -1,4 +1,3 @@
-🎯 Student Grade Calculator
 A simple Python program that calculates a student's grade based on marks and displays encouraging messages.
 This project was developed as part of an internship task to practice Python basics including conditional statements, loops, functions, and input validation.
 
